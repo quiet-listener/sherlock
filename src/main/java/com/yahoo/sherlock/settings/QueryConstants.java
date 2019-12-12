@@ -20,6 +20,7 @@ public class QueryConstants {
     // Query constants
     public static final String AGGREGATOR = "aggregator";
     public static final String NAME = "name";
+    public static final String DATASOURCE_UNION = "dataSources";
     public static final String DIMENSIONS = "dimensions";
     public static final String DIMENSION = "dimension";
     public static final String DATE_TIME_SPLIT = "\\.";
